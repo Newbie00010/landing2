@@ -91,14 +91,6 @@ header {
     width: 100%;
 }
 
-.prest-title {
-    width: 100%;
-    text-align: center;
-    color: #1a1a1a;
-    font-size: 2rem;
-    margin-bottom: 20px;
-}
-
 .prest-item {
     margin: 0;
     text-align: center;
@@ -119,7 +111,6 @@ header {
     color: #c5a059;
     text-transform: uppercase;
 }
-
 
 /* --- Section Services --- */
 .services {
